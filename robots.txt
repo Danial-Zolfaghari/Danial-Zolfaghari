@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danial-zolfaghari.github.io/Danial-Zolfaghari/sitemap.xml
