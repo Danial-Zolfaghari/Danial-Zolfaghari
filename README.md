@@ -217,6 +217,18 @@ That background is a big part of why I am comfortable moving between application
 
 ---
 
+## Engineering Case Studies
+
+I keep selected architecture write-ups separate from the repository list so the profile stays focused on engineering depth rather than repository count.
+
+- **AI Data Analyzer** — grounded natural-language analysis over Elasticsearch with clarification, retrieval, a semantic World Map, deterministic query generation and evidence chains. [Read the case study](./case-studies/ai-data-analyzer.md)
+- **Network DDoS Analysis** — protocol-aware L3/L4 analysis, target grouping and operator-reviewed verdict workflows. [Read the case study](./case-studies/network-ddos-analysis.md)
+- **Monitoring Platform** — cross-platform telemetry, observability, dashboards and operational automation. [Read the case study](./case-studies/monitoring-platform.md)
+
+These write-ups are intentionally sanitized and exclude private infrastructure, customer data, credentials and deployment-specific details.
+
+---
+
 ## How I Usually Approach Engineering
 
 I prefer systems that are:
