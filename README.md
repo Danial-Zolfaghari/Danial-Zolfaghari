@@ -12,6 +12,12 @@
   <a href="https://github.com/Danial-Zolfaghari">
     <img src="https://img.shields.io/badge/GitHub-Danial--Zolfaghari-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://danial-zolfaghari.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-34D399?logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://danial-zolfaghari.github.io/work">
+    <img src="https://img.shields.io/badge/Engineering-Case%20Studies-7C3AED" alt="Engineering Case Studies">
+  </a>
   <img src="https://img.shields.io/badge/Focus-Network%20Security-0A66C2" alt="Network Security">
   <img src="https://img.shields.io/badge/Focus-Incident%20Response-B42318" alt="Incident Response">
   <img src="https://img.shields.io/badge/Focus-Automation%20%26%20AI-6F42C1" alt="Automation and AI">
