@@ -1,4 +1,4 @@
-# Danial Zolfaghari
+# Danial Zolfaghari | دانیال ذوالفقاری
 
 <p align="center">
   <strong>IRT / EOC Engineer · Network Security Engineer · Backend Developer</strong>
@@ -27,7 +27,7 @@
 
 ## About
 
-I'm **Danial Zolfaghari**, a computer engineer working across **Incident Response, EOC/SOC/NOC operations, network security, traffic analysis, backend development, automation, monitoring, and applied AI**.
+I'm **Danial Zolfaghari (دانیال ذوالفقاری)**, a computer engineer working across **Incident Response, EOC/SOC/NOC operations, network security, traffic analysis, backend development, automation, monitoring, and applied AI**.
 
 My work is usually where operations and engineering meet: analyzing network behavior, responding to incidents, working with L3/L4 traffic and DDoS scenarios, building internal tools and APIs, designing monitoring and analysis workflows, and automating repetitive operational tasks.
 
@@ -274,6 +274,6 @@ That combination is where I do my best work: taking raw operational data, unders
 ---
 
 <p align="center">
-  <strong>Danial Zolfaghari</strong><br>
+  <strong>Danial Zolfaghari · دانیال ذوالفقاری</strong><br>
   IRT / EOC Engineer · Network Security Engineer · Backend Developer
 </p>
